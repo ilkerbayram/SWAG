@@ -1,5 +1,5 @@
 # Sparsity Within and Across Groups
-Matlab code to accompany the paper 'A Penalty Function Promoting Sparsity Within and Across Groups', by I. Bayram and S. Bulek.
+Matlab code to accompany the paper 'A Penalty Function Promoting Sparsity Within and Across Groups', by I. Bayram and S. Bulek, 2017.
 
 There are three different experiments and the code for each is provided in a separate folder.
 
